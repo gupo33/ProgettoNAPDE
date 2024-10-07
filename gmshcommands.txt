@@ -1,0 +1,1 @@
+gmsh -2 testairfoil.geo -format msh2
