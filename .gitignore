@@ -1,3 +1,5 @@
 CFDlab08.ipynb
 .DS_Store
 *.png
+*.pvd
+*.vtu
